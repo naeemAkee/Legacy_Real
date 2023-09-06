@@ -1,0 +1,6 @@
+framework module Pods_LegacyReal {
+  umbrella header "Pods-LegacyReal-umbrella.h"
+
+  export *
+  module * { export * }
+}
